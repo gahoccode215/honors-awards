@@ -4,8 +4,6 @@
 
 * My Honors & Rewards
 
-* and more...
-
 # Screenshots
 ![Source code and test script](https://github.com/gahoccode215/honors-awards/blob/main/screenshots/Screenshot%202024-07-21%20192205.png)
 
